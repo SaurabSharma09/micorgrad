@@ -1,0 +1,23 @@
+# Generated files
+*.svg
+*.png
+*.pdf
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Personal notes (keep locally)
+micrograd_complete_notes.md
+micrograd_notes.docx
+main.py
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
