@@ -305,6 +305,5 @@ Built on top of [Andrej Karpathy's micrograd](https://github.com/karpathy/microg
 
 ## Author
 
-Saurab Sharma — MS Artificial Intelligence, Yeshiva University
-Pursuing PhD in AI/ML for Fall 2026
+Saurab Sharma 
 [GitHub](https://github.com/SaurabSharma09) | [LinkedIn](https://linkedin.com/in/saurabsharma)
